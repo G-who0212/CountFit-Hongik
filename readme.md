@@ -60,7 +60,7 @@
 
 ## 시스템 아키텍처
 
-![아키텍처](https://github.com/user-attachments/assets/4448fcac-51b1-4261-a9f6-dac638e37973)
+![아키텍처](https://github.com/user-attachments/assets/8ca7366b-fb9b-442a-85b4-1fa0b69a655d)
 
 ---
 
