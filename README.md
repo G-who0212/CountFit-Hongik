@@ -1,6 +1,6 @@
 # CountFit
 
-![CountFit Logo](https://github.com/user-attachments/assets/32d137a8-49e5-4a39-a4a0-a04da6c4dc64)
+![CountFit Logo](https://github.com/user-attachments/assets/e7afd2c1-b8fa-4399-a645-e34bbf33a43e)
 
 ## 프로젝트 정보
 
@@ -32,6 +32,13 @@
 
 ---
 
+## 주요 기능
+
+1. **운동 횟수 자동 측정**: HRNet 모델을 통해 사용자의 동작을 인식하고 수행 횟수를 자동으로 기록합니다.
+2. **운동 기록 관리**: 자동 저장된 운동 기록을 시각화하여 확인할 수 있습니다.
+
+---
+
 ## 기술 스택
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
@@ -48,26 +55,19 @@
 ## 화면 구성
 
 ### 1. 메인 화면
-![메인 화면](https://github.com/user-attachments/assets/e4294953-f98b-42db-a87c-17250f72f189)
+![메인 화면](https://github.com/user-attachments/assets/cb24e6d1-509b-47a8-8c4d-bdcaacd61f3e)
 
 ### 2. 기록 화면
-![기록 화면](https://github.com/user-attachments/assets/76162a70-f409-4fef-ba7d-165816fc3a4c)
+![기록 화면](https://github.com/user-attachments/assets/8bb65dcf-a7bc-4d47-a94e-d946f9795496)
 
 ### 3. 스쿼트 수행 영상
-[스쿼트 수행 영상](https://github.com/user-attachments/assets/639e4a09-a42a-4f3f-9b57-4ae7ee26aaa4)
+[스쿼트 수행 영상](https://github.com/user-attachments/assets/e7ef7ee9-e380-4106-bfd1-42c0b33d9316)
 
 ---
 
-## 시스템 아키텍처
+## 아키텍처
 
-![아키텍처](https://github.com/user-attachments/assets/8ca7366b-fb9b-442a-85b4-1fa0b69a655d)
-
----
-
-## 주요 기능
-
-1. **운동 횟수 자동 측정**: HRNet 모델을 통해 사용자의 동작을 인식하고 수행 횟수를 자동으로 기록합니다.
-2. **운동 기록 관리**: 자동 저장된 운동 기록을 시각화하여 확인할 수 있습니다.
+![아키텍처](https://github.com/user-attachments/assets/fa16fcaf-cb57-42ee-b56e-5eaba8f4d84e)
 
 ---
 
