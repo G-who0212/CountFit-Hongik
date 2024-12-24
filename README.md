@@ -32,13 +32,6 @@
 
 ---
 
-## 주요 기능
-
-1. **운동 횟수 자동 측정**: HRNet 모델을 통해 사용자의 동작을 인식하고 수행 횟수를 자동으로 기록합니다.
-2. **운동 기록 관리**: 자동 저장된 운동 기록을 시각화하여 확인할 수 있습니다.
-
----
-
 ## 기술 스택
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
