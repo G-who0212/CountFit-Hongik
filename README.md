@@ -50,10 +50,10 @@
 ## 화면 구성
 
 ### 1. 이용 가이드 확인
-![메인 화면](https://github.com/user-attachments/assets/05a0d246-ba08-45fc-8a13-3d6426acd0d2)
+![메인 화면](https://github.com/user-attachments/assets/97bfa281-d7f2-45ff-b811-51f42972a12d)
 
 ### 2. 운동 수행
-![기록 화면](https://github.com/user-attachments/assets/84e23558-6d27-496b-8e5c-8093c6232161)
+![기록 화면](https://github.com/user-attachments/assets/6f978979-53ba-4228-b952-d4bca4c37899)
 
 ### 3. 스쿼트 수행 영상
 [스쿼트 수행 영상](https://github.com/user-attachments/assets/e7ef7ee9-e380-4106-bfd1-42c0b33d9316)
