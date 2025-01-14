@@ -74,7 +74,7 @@ class TestRecordAPIView(APITestCase):
 
     def test_create_record(self):
         data = {
-            "sport_type": "running",
+            "sport_type": "squat",
             "aim_count": 10,
             "done_count": 7
         }
@@ -84,7 +84,7 @@ class TestRecordAPIView(APITestCase):
 
     def test_create_record_missing_data(self):
         data = {
-            "sport_type": "running",
+            "sport_type": "squat",
             "aim_count": 10
         }
         response = self.client.post('/account/record/', data)

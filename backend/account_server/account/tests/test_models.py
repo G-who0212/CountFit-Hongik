@@ -26,7 +26,7 @@ class TestRecordModel(TestCase):
             nickname="testuser"
         )
         self.record = Record.objects.create(
-            sport_type="running",
+            sport_type="squat",
             aim_count=10,
             done_count=7,
             done_at="2023-01-01 00:00:00",
@@ -34,5 +34,5 @@ class TestRecordModel(TestCase):
         )
 
     def test_record_creation(self):
-        self.assertEqual(self.record.sport_type, "running")
+        self.assertEqual(self.record.sport_type, "squat")
         self.assertEqual(self.record.user, self.user)
