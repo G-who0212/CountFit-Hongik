@@ -49,11 +49,11 @@
 
 ## 화면 구성
 
-### 1. 메인 화면
-![메인 화면](https://github.com/user-attachments/assets/cb24e6d1-509b-47a8-8c4d-bdcaacd61f3e)
+### 1. 이용 가이드 확인
+![메인 화면](https://github.com/user-attachments/assets/05a0d246-ba08-45fc-8a13-3d6426acd0d2)
 
-### 2. 기록 화면
-![기록 화면](https://github.com/user-attachments/assets/8bb65dcf-a7bc-4d47-a94e-d946f9795496)
+### 2. 운동 수행
+![기록 화면](https://github.com/user-attachments/assets/84e23558-6d27-496b-8e5c-8093c6232161)
 
 ### 3. 스쿼트 수행 영상
 [스쿼트 수행 영상](https://github.com/user-attachments/assets/e7ef7ee9-e380-4106-bfd1-42c0b33d9316)
